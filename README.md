@@ -1,3 +1,3 @@
 - Initial Commit
 - Second Commit (good)
-- Third Commit (bad)
+- Conflictasdfas Commit (bad)
